@@ -1,4 +1,4 @@
-# Decision-Tree-and-Random-Forest
+# Titanic Disaster: Survival Prediction with Decision-Tree-and-Random-Forest
 
 <div align="justify">
   
