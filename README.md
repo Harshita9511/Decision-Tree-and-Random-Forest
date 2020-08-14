@@ -16,7 +16,7 @@ Entropy and Information gain are the mathematical methods of choosing the best s
 **Entropy**: It is the measure of impurity. It defines randomness in the data.<br />
 **Information Gain**: Measures the reduction in entropy. It decides which attribute should be selected as the decision node.<br />
 
-<div align="center"><img src="/entropy_and_gain.png" width="400" height="250" /></div>
+<div align="center"><img src="https://github.com/Harshita9511/Decision-Tree-and-Random-Forest/blob/master/entropy_and%20_gain.png" width="550" height="300" /></div>
 
 ## Random Forest
 Random forest is an ensemble learning method for classification, regression and other tasks. It is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
@@ -26,7 +26,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. On
 Data Source: [Titanic Dataset](https://www.kaggle.com/c/titanic)<br />
 <br />
 
-<div align="center"><img src="/attributes.png" width="400" height="250" /></div><br />
+<div align="center"><img src="/attributes.png" width="550" height="350" /></div><br />
 *pclass:* A proxy for socio-economic status (SES)<br />
 1st = Upper<br />
 2nd = Middle<br />
