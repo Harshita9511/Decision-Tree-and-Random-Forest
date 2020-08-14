@@ -26,7 +26,8 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. On
 Data Source: [Titanic Dataset](https://www.kaggle.com/c/titanic)<br />
 <br />
 
-<div align="center"><img src="/attributes.png" width="550" height="350" /></div><br />
+<div align="center"><img src="/attributes.png" width="610" height="350" /></div><br />
+
 *pclass:* A proxy for socio-economic status (SES)<br />
 1st = Upper<br />
 2nd = Middle<br />
